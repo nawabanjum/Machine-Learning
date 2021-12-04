@@ -1,0 +1,8 @@
+Problem definations
+
+Most popular Category
+App with the largest Size
+App with the largest num of install
+App which has not been updated
+Paid vs Free
+Identify large num of reviews

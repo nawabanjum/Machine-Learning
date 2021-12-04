@@ -1,0 +1,9 @@
+My Problems
+
+Q->To Predict the rating of Google play store App.
+Ans->I shall try to use regression algo/problem,SVM for this as rating is in continuos variable
+Q->To figure out quantitative features are correlated to the rating of apps?
+Ans->feature modeling Techniques or K-MEAN 
+
+Install 
+
